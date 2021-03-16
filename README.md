@@ -21,14 +21,14 @@ O programa original consistia em registrar itens nas categorias:
 
  A ideia principal foi mantida aqui, mas como duas opções. Decidi trabalhar utilizando a linguagem Python, com funções e banco de dados(SQLITE3), e criei um 'menu' com as seguintes opções:
 
-1 - Inserir Novo Registro
-2 - Deletar Registro
-3 - Atualizar Registro
-4 - Visualizar Registros
-5 - Buscar Registros por Nome
-6 - Mostrar Cardápio Mais Barato
-7 - Mostrar Cardápio Mais Caro
-8 - Sair
+1. Inserir Novo Registro
+2. Deletar Registro
+3. Atualizar Registro
+4. Visualizar Registros
+5. Buscar Registros por Nome
+6. Mostrar Cardápio Mais Barato
+7. Mostrar Cardápio Mais Caro
+8. Sair
 
 Assim, os itens podem ser adicionados, atualizados, apagados e consultados, conforme o usuário escolha as opções do menu. Com pelo menos dois itens cadastrados em cada categoria, é possível utilizar as opções 6 e 7 e imprimir o cardápio mais barato e o cardápio mais caro.
 
