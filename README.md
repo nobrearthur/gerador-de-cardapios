@@ -6,16 +6,16 @@ Ideia principal: A partir de sucessivos cadastros em um banco de dados, o progra
 A essência desse programa veio do primeiro trabalho que fiz, quando estava no curso de Ciência da Computação (em 2010/2011).
 O programa original consistia em registrar itens nas categorias:
  
- 'ENTRADA'
- 'PRATO PRINCIPAL'
- 'SOBREMESA'
- 'BEBIDAS'
+ - 'ENTRADA'
+ - 'PRATO PRINCIPAL'
+ - 'SOBREMESA'
+ - 'BEBIDAS'
 
  Cada item registrado contava com três informações:
 
- NOME
- CÓDIGO
- PREÇO
+ - NOME
+ - CÓDIGO
+ - PREÇO
 
  Desse modo, os itens iam sendo registrados, em um programa estruturado e simples, e ao final ocorria a impressão do cardápio mais barato e do cardápio mais caro.
 
