@@ -1,7 +1,7 @@
 # gerador-de-cardapios
 Ideia principal: A partir de sucessivos cadastros em um banco de dados, o programa gera o cardápio mais barato e o mais caro.
 
-Descrição:
+**Descrição:**
 
 A essência desse programa veio do primeiro trabalho que fiz, quando estava no curso de Ciência da Computação (em 2010/2011).
 O programa original consistia em registrar itens nas categorias:
@@ -32,4 +32,4 @@ O programa original consistia em registrar itens nas categorias:
 
 Assim, os itens podem ser adicionados, atualizados, apagados e consultados, conforme o usuário escolha as opções do menu. Com pelo menos dois itens cadastrados em cada categoria, é possível utilizar as opções 6 e 7 e imprimir o cardápio mais barato e o cardápio mais caro.
 
-Obs.: Há alguns itens já registrados no banco de dados (menu_database.db), pois assim é possível checar as opções 3,4,5,6 e 7.
+*Obs.: Há alguns itens já registrados no banco de dados (menu_database.db), pois assim é possível checar as opções 3,4,5,6 e 7.*
